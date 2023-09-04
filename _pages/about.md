@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi I'm ![Harshal](/images/logo.png){: width="10px"}, do you love robots🤖?"
+title: "Hi I'm ![Harshal](/images/logo.png){width="10px"}, do you love robots🤖?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
