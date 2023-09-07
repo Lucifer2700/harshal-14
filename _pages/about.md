@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Self-Driving-car](/images/Self-Driving-car.png){: .align-right width="300px"}
+![Self-Driving-car](/images/Self-Driving-car.png){: .align-right width="893px"}
 🏫 I'm currently pursuing MS in Robotics at Worcester Polytechnic Institute(WPI). I have an innate passion for understanding how human perception and navigation work and how we can build real-world deployable autonomous systems with a positive societal impact.
 
 🏎️ My research interests are deeply rooted in the world of autonomous vehicles, with a focus on self-driving cars, optimal control, and perception.
