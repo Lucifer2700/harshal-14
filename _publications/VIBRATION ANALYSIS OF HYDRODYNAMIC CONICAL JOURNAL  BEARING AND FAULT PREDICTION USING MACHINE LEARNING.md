@@ -1,9 +1,9 @@
 ---
 title: "VIBRATION ANALYSIS OF HYDRODYNAMIC CONICAL JOURNAL  BEARING AND FAULT PREDICTION USING MACHINE LEARNING"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/
 excerpt: 'This paper is about Conditional monitoring of Hydrodynamic Conical Journal Bearing using advanced AI techniques.'
-date: 2009-10-01
+date:
 venue: 'Under Review'
 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
