@@ -3,7 +3,7 @@ title: "VIBRATION ANALYSIS OF HYDRODYNAMIC CONICAL JOURNAL  BEARING AND FAULT PR
 collection: publications
 permalink: /publication/
 excerpt: 'This paper is about Conditional monitoring of Hydrodynamic Conical Journal Bearing using advanced AI techniques.'
-date:
+date: 2023-09-06
 venue: 'Under Review'
 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
