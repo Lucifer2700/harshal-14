@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tracking Using Kalman Filter"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/track_083.png'>"
+excerpt: "Occlusion handling for tracking using Linear Kalman Filter <br/><img src='/images/track_083.png'>"
 collection: portfolio
 ---
 
