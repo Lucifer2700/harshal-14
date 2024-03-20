@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal-14&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-14" /> </p>
 
-- 🔭 I’m currently working on **NeRF**
+- 🔭 I’m currently working on **perception stack using Tesla camera data to render in Blender**
 
 - 🌱 I’m currently learning **NeRFs, SLAM, Robotic grasping techniques**
 
-- 👯 I’m looking to collaborate on **LLMs, SLAM,Robotics**
+- 👯 I’m looking to collaborate on **Perception for Autonomous systems, SLAM,Robotics**
 
 - 👨‍💻 All of my projects are available at [https://harshal-14.github.io/](https://harshal-14.github.io/)
 
