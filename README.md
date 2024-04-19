@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal-14&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-14" /> </p>
 
-- 🔭 I’m currently working on **perception stack using Tesla camera data to render in Blender**
+- 🔭 I’m currently working on **Unscented Kalman Filter for Drone Pose esitmation, Visual-Inertial Odometry**
 
-- 🌱 I’m currently learning **NeRFs, SLAM, Robotic grasping techniques**
+- 🌱 I’m currently learning **SLAM, Robot Cloud fleet Management, Applied Unscented Kalman Filter**
 
 - 👯 I’m looking to collaborate on **Perception for Autonomous systems, SLAM,Robotics**
 
