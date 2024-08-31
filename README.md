@@ -51,8 +51,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Introduction to SLAM](#)
-- [Advanced C++ for Robotics](#)
+- [RGBD SLAM in Gazebo Environment](https://youtu.be/CAFguSQwbX8)
+- [Adaptive Cruise Control using MPC](https://youtu.be/9P2mqqktDwU)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
