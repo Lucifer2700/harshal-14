@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Collaborate-Perception%20Systems-green?style=flat-square&logo=github" alt="Looking to Collaborate on Perception Systems"/>
 </p>
 
-- 🔭 I’m currently interning at **Magna International New Mobility Division**.
+- 🔭 I’m recently completed my Co-op at **Magna International New Mobility Division** & am back at WPI.
 - 🌱 I’m currently learning **SLAM, Applied LLMs, and C++ implementations for Navigation Algorithms**.
 - 👯 I’m looking to collaborate on **Perception for Autonomous Systems, SLAM, Robotics**.
 - 👨‍💻 All of my projects are available at [my portfolio](https://harshal-14.github.io/).
